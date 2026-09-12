@@ -2,7 +2,7 @@
 
 An Excel-based reconciliation system that matches point-of-sale records against multiple delivery platform reports to catch missing orders, verify payouts, and surface commission costs — built as a fast, formula-driven alternative to manual cross-checking.
 
-![Executive Summary](images/ExecutiveSummary.png)
+![Executive Summary](images/Executive Summary.png)
 
 ## Business Problem
 
