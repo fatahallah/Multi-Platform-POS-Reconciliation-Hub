@@ -2,7 +2,7 @@
 
 An Excel-based reconciliation system that matches point-of-sale records against multiple delivery platform reports to catch missing orders, verify payouts, and surface commission costs — built as a fast, formula-driven alternative to manual cross-checking.
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/ExecutiveSummary.png)
 
 ## Business Problem
 
@@ -35,7 +35,7 @@ Keeping these separate matters: comparing POS sales directly to the *net* payout
 
 The **Executive Summary** sheet surfaces four headline metrics (Total POS Net Sales, Total Expected Payout, Total Discrepancy, Matched Orders Rate), a per-platform performance table, and two clean charts — order volume and sales by platform — kept as separate visuals rather than a single combined chart, since order counts and sales values aren't meaningfully comparable on the same axis.
 
-![Reconciliation Audit](images/reconciliation_audit.png)
+![Reconciliation Audit](images/Reconciliation_Audit.png)
 
 The **Reconciliation_Audit** sheet lists every order with its match status (Matched / Missing in Platform), the commission and VAT deducted, and an audit note explaining what action each flagged record needs.
 
